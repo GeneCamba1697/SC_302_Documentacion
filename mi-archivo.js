@@ -1,1 +1,1 @@
-"Hola mundo" // prueba
+"Hola mundo_editado"
